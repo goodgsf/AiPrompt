@@ -1,0 +1,44 @@
+{
+  "project_configuration": {
+    "shot_type": "macro_high_speed_photography",
+    "global_settings": {
+      "aspect_ratio": "9:16",
+      "chaos_weight": 20,
+      "color_profile": "high-key_warm_golden",
+      "environment": {
+        "backdrop": "clean_white_studio_infinity",
+        "lighting_style": "hard_rim_light_for_texture_emphasis",
+        "atmosphere": "hot_steam_and_action"
+      }
+    },
+    "camera_optics": {
+      "body": "Canon EOS R5",
+      "lens": "100mm f/2.8 Macro",
+      "depth_of_field": "sharp_focus_on_crust_details",
+      "shutter_speed": "1/8000s_freeze_motion"
+    }
+  },
+  "scene_data": [
+    {
+      "id": "main_subject_group",
+      "snack_component": {
+        "type": "[INSERT INPUT SUBJECT HERE]",
+        "surface": "[DESCRIBE TEXTURE, e.g., extra_crispy_golden_scales]",
+        "physics": "mid-air_impact_vibration",
+        "action_dynamics": "crunchy_shatter_effect"
+      },
+      "particle_system": {
+        "density": "high_density_explosion",
+        "spices": [
+          "[DERIVED SPICE 1]",
+          "[DERIVED SPICE 2]"
+        ],
+        "debris": [
+          "[DERIVED CRUMBS]",
+          "[DERIVED DUST/STEAM]"
+        ],
+        "motion_blur": "slight_radial_blur_on_edges"
+      }
+    }
+  ]
+}
